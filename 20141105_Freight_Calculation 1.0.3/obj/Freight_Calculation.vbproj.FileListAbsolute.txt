@@ -1,0 +1,48 @@
+D:\Project\procons4it\Freight_Calculation\Freight_Calculation\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\procons4it\Freight_Calculation\Freight_Calculation\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\Freight_Calculation\Freight_Calculation\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\Freight_Calculation\Freight_Calculation\obj\Debug\Interop.Scripting.dll
+D:\Project\procons4it\Freight_Calculation\Freight_Calculation\obj\Debug\Freight_Calculation.vbproj.ResolveComReference.cache
+D:\Project\procons4it\Freight_Calculation\Freight_Calculation\obj\Debug\Freight_Calculation.Resources.resources
+D:\Project\procons4it\Freight_Calculation\Freight_Calculation\obj\Debug\Freight_Calculation.vbproj.GenerateResource.Cache
+D:\Project\procons4it\Freight_Calculation\Freight_Calculation\bin\Debug\Freight_Calculation.exe
+D:\Project\procons4it\Freight_Calculation\Freight_Calculation\bin\Debug\Freight_Calculation.pdb
+D:\Project\procons4it\Freight_Calculation\Freight_Calculation\bin\Debug\Freight_Calculation.xml
+D:\Project\procons4it\Freight_Calculation\Freight_Calculation\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\Freight_Calculation\Freight_Calculation\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\Freight_Calculation\Freight_Calculation\bin\Debug\Interop.Scripting.dll
+D:\Project\procons4it\Freight_Calculation\Freight_Calculation\obj\Debug\Freight_Calculation.exe
+D:\Project\procons4it\Freight_Calculation\Freight_Calculation\obj\Debug\Freight_Calculation.xml
+D:\Project\procons4it\Freight_Calculation\Freight_Calculation\obj\Debug\Freight_Calculation.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Fright Calculation\Freight_Calculation\obj\Debug\Freight_Calculation.exe
+G:\International Projects_SAP9.0\Procons-4IT\Fright Calculation\Freight_Calculation\obj\Debug\Freight_Calculation.xml
+G:\International Projects_SAP9.0\Procons-4IT\Fright Calculation\Freight_Calculation\obj\Debug\Freight_Calculation.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Fright Calculation\Freight_Calculation\bin\Debug\Freight_Calculation.exe
+G:\International Projects_SAP9.0\Procons-4IT\Fright Calculation\Freight_Calculation\bin\Debug\Freight_Calculation.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Fright Calculation\Freight_Calculation\bin\Debug\Freight_Calculation.xml
+G:\International Projects_SAP9.0\Procons-4IT\Fright Calculation\Freight_Calculation\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Fright Calculation\Freight_Calculation\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Fright Calculation\Freight_Calculation\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Fright Calculation\Freight_Calculation\obj\Debug\ResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Fright Calculation\Freight_Calculation\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Fright Calculation\Freight_Calculation\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Fright Calculation\Freight_Calculation\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Fright Calculation\Freight_Calculation\obj\Debug\Freight_Calculation.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Fright Calculation\Freight_Calculation\obj\Debug\Freight_Calculation.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\Fright Calculation\Freight_Calculation\obj\Debug\Freight_Calculation.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\Freight Calculation\Freight_Calculation\obj\Debug\Freight_Calculation.exe
+G:\International Projects_SAP9.0\Procons-4IT\Freight Calculation\Freight_Calculation\obj\Debug\Freight_Calculation.xml
+G:\International Projects_SAP9.0\Procons-4IT\Freight Calculation\Freight_Calculation\obj\Debug\Freight_Calculation.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Freight Calculation\Freight_Calculation\bin\Debug\Freight_Calculation.exe
+G:\International Projects_SAP9.0\Procons-4IT\Freight Calculation\Freight_Calculation\bin\Debug\Freight_Calculation.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Freight Calculation\Freight_Calculation\bin\Debug\Freight_Calculation.xml
+G:\International Projects_SAP9.0\Procons-4IT\Freight Calculation\Freight_Calculation\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Freight Calculation\Freight_Calculation\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Freight Calculation\Freight_Calculation\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Freight Calculation\Freight_Calculation\obj\Debug\ResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Freight Calculation\Freight_Calculation\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Freight Calculation\Freight_Calculation\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Freight Calculation\Freight_Calculation\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Freight Calculation\Freight_Calculation\obj\Debug\Freight_Calculation.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Freight Calculation\Freight_Calculation\obj\Debug\Freight_Calculation.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\Freight Calculation\Freight_Calculation\obj\Debug\Freight_Calculation.vbproj.GenerateResource.Cache
